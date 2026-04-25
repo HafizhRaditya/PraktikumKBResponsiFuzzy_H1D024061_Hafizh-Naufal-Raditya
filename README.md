@@ -30,5 +30,5 @@ Sistem pakar berbasis aturan (Rule-Based System) untuk menentukan perlengkapan p
 
 Aplikasi ini dibangun menggunakan framework Streamlit. Ikuti langkah berikut untuk menjalankan di lingkungan lokal:
 
-1. Klik New Terminal
+1. Klik New Terminal di menu Terminal
 2. Ketikkan "streamlit run responsi.py" untuk fuzzy, untuk pakar "streamlit run responsi2.py
